@@ -1,0 +1,48 @@
+body {
+  background-color: #FAF0E6;
+  margin: 0;
+  padding: 20px;
+  border: solid 10px;
+  border-color: #6B2516;
+}
+
+.heading {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading {
+  color: #6B2516;
+}
+
+table {
+  width: 900px;
+  border-spacing: 5px;
+  margin-bottom: 18px;
+  position: static;
+}
+
+table, th, td {
+  border: 1px solid #000
+}
+
+.omelet {
+  width: 150px;
+}
+
+.cappuccino {
+  width: 130px;
+}
+
+.circle {
+  border-radius: 100%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+  display: inline;
+}
